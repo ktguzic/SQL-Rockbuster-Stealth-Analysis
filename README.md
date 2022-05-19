@@ -11,7 +11,9 @@ Some of the Key Questions & Objectives of this analysis were to answer the follo
 ● What was the average rental duration for all videos?
 
 ● Which countries are Rockbuster customers based in?
+
 ● Where are customers with a high lifetime value based?
+
 ● Do sales figures vary between geographic regions?
 
 The data set used contained information about Rockbuster’s film inventory, customers, and payments, among other things.
