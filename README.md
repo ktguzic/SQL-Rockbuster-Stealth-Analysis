@@ -17,3 +17,6 @@ Some of the Key Questions & Objectives of this analysis were to answer the follo
 ● Do sales figures vary between geographic regions?
 
 The data set used contained information about Rockbuster’s film inventory, customers, and payments, among other things.
+
+The files included have the final analysis, a data dictionary and a link to the visualizations.
+Also included is a common table expression query that was used during the analysis.
