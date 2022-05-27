@@ -24,7 +24,7 @@ Some of the Key Questions & Objectives of this analysis were to answer the follo
 The data set used contained information about Rockbuster’s film inventory, customers, and payments, among other things.
 
 ## Tools:
-SQL
+PostgreSQL
 
 ## Executing the code
 Included is a common table expression query that was used during the analysis
